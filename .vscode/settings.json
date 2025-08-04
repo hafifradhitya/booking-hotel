@@ -2,5 +2,6 @@
     "[prisma]": {
     "editor.defaultFormatter": "Prisma.prisma"
     },
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "prisma-smart-formatter.prisma.defaultFormatter": "Prisma.prisma"
 }
